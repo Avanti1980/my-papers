@@ -2,12 +2,8 @@
 
 #### 会议论文
 
-1. Shortcut-Resistant CAM Distillation for Long-Tailed Recognition.
-   Wenhai Wan, <u>Teng Zhang</u>, Shao-Yuan Li, Xinrui Wang, Qiang-Sheng Hua, and Songcan Chen.
-   In: Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), Seoul, South Korea, 2026.
-2. Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product.
-   Nan Cao†, Xu Zhao†, and <u>Teng Zhang</u>. († contributed equally as co-first authors)
-   In: Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), Seoul, South Korea, 2026.
+1. Shortcut-Resistant CAM Distillation for Long-Tailed Recognition.<br>Wenhai Wan, <u>Teng Zhang</u>, Shao-Yuan Li, Xinrui Wang, Qiang-Sheng Hua, and Songcan Chen.<br>In: Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), Seoul, South Korea, 2026.
+2. Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product.<br>Nan Cao†, Xu Zhao†, and <u>Teng Zhang</u>. († contributed equally as co-first authors)<br>In: Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), Seoul, South Korea, 2026.
 3. Diversity-Aware Recursive Feature Multiple Kernel Learning.
    Nan Cao†, Xu Zhao†, and <u>Teng Zhang</u>. († contributed equally as co-first authors)
    In: Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), Seoul, South Korea, 2026.
